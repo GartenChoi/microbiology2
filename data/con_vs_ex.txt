@@ -1,0 +1,511 @@
+KE159571_g KE159641_s: 0.981093만큼 변화함.
+Desulfovibrio PAC001079_s: 0.904344만큼 변화함.
+Lactobacillus gasseri group: -0.372850만큼 변화함.
+Clostridium_g24 PAC001374_s: 0.988162만큼 변화함.
+Lactobacillus murinus group: -4.869679만큼 변화함.
+PAC001127_g PAC002399_s: 0.695382만큼 변화함.
+PAC002400_g PAC002400_s: 0.442711만큼 변화함.
+PAC000664_g PAC001104_s: 0.989887만큼 변화함.
+KE159605_g KB822463_s: 0.933042만큼 변화함.
+PAC001375_g PAC001375_s: 0.936582만큼 변화함.
+Eubacterium_g17 PAC001119_s: 0.995352만큼 변화함.
+KE159538_g PAC001696_s: 0.990074만큼 변화함.
+PAC001043_g PAC001552_s: 0.940901만큼 변화함.
+Bacteroides vulgatus: 0.755183만큼 변화함.
+PAC000664_g PAC002486_s: 0.984678만큼 변화함.
+PAC000186_g PAC001064_s: -1.127820만큼 변화함.
+PAC001062_g PAC001062_s: 0.615551만큼 변화함.
+KE159571_g KE159571_s: 0.979045만큼 변화함.
+PAC002482_g EF603735_s: 0.765957만큼 변화함.
+PAC001063_g PAC001063_s: -0.425150만큼 변화함.
+KE159605_g KE159605_s: 0.943472만큼 변화함.
+PAC001199_g PAC001746_s: 0.932705만큼 변화함.
+PAC000664_g PAC001083_s: 0.820122만큼 변화함.
+Clostridium_g24 PAC001376_s: 0.979066만큼 변화함.
+Enterorhabdus caecimuris: 0.557034만큼 변화함.
+Eubacterium_g17 PAC002487_s: 0.928846만큼 변화함.
+PAC001681_g PAC001681_s: 0.817248만큼 변화함.
+PAC001092_g PAC001742_s: 0.980769만큼 변화함.
+Bacteroides caecimuris: 0.599089만큼 변화함.
+Prevotella PAC002481_s: -1.486284만큼 변화함.
+KE159628_g KE159628_s: 0.857576만큼 변화함.
+PAC001091_g PAC001558_s: 0.847561만큼 변화함.
+PAC001138_g PAC001518_s: 0.784615만큼 변화함.
+KE159571_g PAC001776_s group: 0.900000만큼 변화함.
+PAC001066_g PAC001066_s: -1.712329만큼 변화함.
+PAC001092_g PAC001382_s: 0.912548만큼 변화함.
+PAC001296_g PAC001601_s: 0.926923만큼 변화함.
+PAC001092_g PAC001092_s: 0.735178만큼 변화함.
+PAC001199_g DQ777929_s: 0.816000만큼 변화함.
+PAC001043_g PAC002511_s group: 0.870445만큼 변화함.
+Oscillibacter PAC001501_s: 0.723140만큼 변화함.
+KE159538_g EF097676_s: 0.686441만큼 변화함.
+Muribaculum PAC001077_s: 0.414530만큼 변화함.
+PAC001092_g PAC001710_s: 0.922078만큼 변화함.
+Oscillibacter PAC001186_s group: 0.760870만큼 변화함.
+PAC001679_g PAC001679_s: 0.756522만큼 변화함.
+KE159571_g PAC002468_s: 0.981982만큼 변화함.
+PAC000186_g PAC001128_s: 0.712963만큼 변화함.
+Enterorhabdus PAC002410_s: 0.561224만큼 변화함.
+Pseudoflavonifractor PAC001550_s: 0.701031만큼 변화함.
+Caproiciproducens EU622658_s: 0.938202만큼 변화함.
+Oscillibacter PAC001188_s: 0.575581만큼 변화함.
+Clostridium_g21 PAC001085_s: 0.883041만큼 변화함.
+Bacteroides DQ805799_s: 0.666667만큼 변화함.
+PAC000661_g AB185622_s: 0.554054만큼 변화함.
+PAC001516_g PAC002466_s: 0.844595만큼 변화함.
+PAC000664_g PAC001535_s group: 0.751773만큼 변화함.
+Acutalibacter muris: 0.511278만큼 변화함.
+KE159538_g PAC001708_s: 0.742424만큼 변화함.
+Enterorhabdus mucosicola: 0.677419만큼 변화함.
+KE159571_g PAC001933_s: 0.811475만큼 변화함.
+PAC001236_g PAC001767_s: 0.866667만큼 변화함.
+EU456594_g EU456594_s: 0.974790만큼 변화함.
+PAC001166_g GQ451310_s: 0.957265만큼 변화함.
+PAC001199_g PAC002391_s: 0.974138만큼 변화함.
+Eubacterium_g6 PAC001227_s: 0.982609만큼 변화함.
+KE159571_g PAC001604_s: 0.590909만큼 변화함.
+Pseudoflavonifractor PAC001543_s: 0.816514만큼 변화함.
+PAC000692_g PAC001666_s: 0.844037만큼 변화함.
+PAC000661_g PAC001777_s group: -3.416667만큼 변화함.
+Marvinbryantia PAC001753_s: -1.355140만큼 변화함.
+PAC002042_g PAC002042_s: 0.923077만큼 변화함.
+PAC001092_g PAC001381_s: 0.718447만큼 변화함.
+KE159605_g PAC002401_s group: 0.815534만큼 변화함.
+PAC001221_g PAC001221_s: 0.823529만큼 변화함.
+Arthromitus AP012202_s group: -1.504950만큼 변화함.
+Clostridium_g21 PAC002512_s group: 0.376238만큼 변화함.
+Clostridium_g24 AF371567_s: 0.970000만큼 변화함.
+Parabacteroides goldsteinii: 0.707071만큼 변화함.
+Acetatifactor PAC002332_s: 0.422680만큼 변화함.
+PAC000186_g PAC001806_s: -1.510417만큼 변화함.
+Flintibacter butyricus group: 0.478723만큼 변화함.
+Phocea PAC001158_s: 0.595745만큼 변화함.
+Roseburia PAC001271_s: 0.765957만큼 변화함.
+Clostridium_g24 PAC000183_s: 0.838710만큼 변화함.
+PAC000661_g EF434365_s: 0.402174만큼 변화함.
+Eubacterium_g8 PAC002357_s: 0.569767만큼 변화함.
+PAC001074_g PAC001074_s: -0.882353만큼 변화함.
+PAC001225_g PAC001225_s: 0.988235만큼 변화함.
+PAC001165_g PAC001366_s: 0.364706만큼 변화함.
+PAC001266_g PAC002299_s: 0.835294만큼 변화함.
+Pseudoflavonifractor PAC001087_s: 0.523810만큼 변화함.
+PAC001456_g PAC001456_s: 0.547619만큼 변화함.
+PAC001092_g PAC001691_s: 0.976190만큼 변화함.
+PAC000671_g PAC001473_s: 0.903614만큼 변화함.
+PAC001043_g PAC001570_s: 0.936709만큼 변화함.
+PAC001092_g PAC001517_s: 0.821918만큼 변화함.
+Oscillibacter PAC001638_s: -0.849315만큼 변화함.
+Acutalibacter PAC001594_s: 0.833333만큼 변화함.
+Oscillibacter PAC001522_s: 0.385714만큼 변화함.
+PAC001402_g PAC001546_s: 0.594203만큼 변화함.
+PAC000664_g EU504374_s: 0.529412만큼 변화함.
+PAC001524_g PAC001524_s: -1.179104만큼 변화함.
+PAC001092_g PAC001774_s: 0.924242만큼 변화함.
+PAC000661_g PAC000686_s: -1.892308만큼 변화함.
+PAC001362_g PAC001362_s: -1.030769만큼 변화함.
+Enterorhabdus muris: 0.468750만큼 변화함.
+PAC001112_g PAC002441_s: -1.403226만큼 변화함.
+PAC001043_g AB506430_s: 0.864407만큼 변화함.
+Eubacterium_g6 JQ083736_s: 0.474576만큼 변화함.
+PAC000692_g PAC001760_s: 0.553571만큼 변화함.
+PAC001043_g PAC002338_s: 0.821429만큼 변화함.
+Bacteroides DQ799557_s: 0.518519만큼 변화함.
+PAC000198_g PAC001075_s: -2.092593만큼 변화함.
+PAC001266_g PAC001266_s: 0.759259만큼 변화함.
+PAC001212_g PAC001809_s: -6.294118만큼 변화함.
+Oscillibacter EF098020_s: 0.880000만큼 변화함.
+Caproiciproducens PAC001505_s: 0.740000만큼 변화함.
+LLKB_g PAC001902_s: 0.913043만큼 변화함.
+PAC001360_g GQ157859_s: 0.377778만큼 변화함.
+Acutalibacter PAC001519_s: 0.755556만큼 변화함.
+Eubacterium_g8 PAC001244_s: 0.883721만큼 변화함.
+PAC001385_g PAC001727_s group: 0.651163만큼 변화함.
+Pseudoflavonifractor PAC001131_s: 0.785714만큼 변화함.
+Oscillibacter PAC001526_s: 0.714286만큼 변화함.
+KE159797_g KE159797_s: 0.804878만큼 변화함.
+PAC001103_g PAC001361_s: 0.365854만큼 변화함.
+KE159571_g PAC002348_s: -2.725000만큼 변화함.
+PAC000661_g EU842956_s: -0.526316만큼 변화함.
+PAC001362_g PAC001647_s: 0.868421만큼 변화함.
+PAC001043_g PAC001752_s: 0.526316만큼 변화함.
+PAC001092_g PAC002030_s: 0.710526만큼 변화함.
+PAC001516_g PAC002384_s: 0.945946만큼 변화함.
+PAC001402_g PAC001764_s: 0.676471만큼 변화함.
+PAC000664_g PAC001515_s: -6.545455만큼 변화함.
+PAC001402_g PAC001561_s: 0.575758만큼 변화함.
+PAC001092_g PAC001388_s: ex에서 새로 검출됨.
+Paludicola PAC001784_s: 0.875000만큼 변화함.
+Streptococcus danieliae: 0.843750만큼 변화함.
+Pseudoflavonifractor KI535319_s: -0.322581만큼 변화함.
+PAC001573_g PAC002010_s: 0.967742만큼 변화함.
+Lachnospira PAC002369_s: 0.838710만큼 변화함.
+PAC001225_g EU504346_s: 0.833333만큼 변화함.
+KE159600_g KE159600_s: -1.933333만큼 변화함.
+Eubacterium_g6 PAC001586_s: 0.733333만큼 변화함.
+LT706945_g PAC001747_s: 0.700000만큼 변화함.
+PAC001377_g PAC001377_s: 0.931034만큼 변화함.
+PAC000197_g EF406725_s: -2.333333만큼 변화함.
+Clostridium_g21 EU455375_s: 0.888889만큼 변화함.
+PAC001266_g PAC002419_s: 0.925926만큼 변화함.
+PAC001408_g PAC001408_s: -6.423077만큼 변화함.
+Pseudoflavonifractor PAC001574_s group: 0.923077만큼 변화함.
+LLKB_g PAC001383_s: 0.400000만큼 변화함.
+PAC000664_g PAC001488_s group: 0.960000만큼 변화함.
+Emergencia PAC001235_s: -1.333333만큼 변화함.
+Clostridium_g21 PAC001294_s: -1.750000만큼 변화함.
+Oscillibacter PAC001684_s: 0.625000만큼 변화함.
+KE159538_g FJ881185_s: 0.478261만큼 변화함.
+Pseudoflavonifractor PAC001547_s: 0.608696만큼 변화함.
+PAC001092_g PAC001668_s: 0.826087만큼 변화함.
+PAC000661_g PAC001716_s: 0.565217만큼 변화함.
+Acutalibacter AB622826_s: ex에서 새로 검출됨.
+PAC000692_g PAC000692_s: -0.380952만큼 변화함.
+KE159571_g PAC002495_s: ex에서 새로 검출됨.
+Clostridium_g24 PAC001282_s: ex에서 새로 검출됨.
+PAC000664_g AB626958_s: ex에서 새로 검출됨.
+Bacteroides HM124113_s: -6.947368만큼 변화함.
+Oscillibacter PAC001156_s: 0.894737만큼 변화함.
+PAC000661_g PAC001329_s: -1.000000만큼 변화함.
+Massilioclostridium PAC001521_s: -0.315789만큼 변화함.
+PAC001573_g EU509323_s: 0.944444만큼 변화함.
+KE159810_g KE159810_s: 0.611111만큼 변화함.
+PAC001468_g PAC001731_s: -0.888889만큼 변화함.
+Eubacterium_g6 PAC001759_s: ex에서 새로 검출됨.
+LLKB_g PAC002469_s: 0.666667만큼 변화함.
+Caproiciproducens EF603512_s: ex에서 새로 검출됨.
+PAC001092_g EU508304_s: ex에서 새로 검출됨.
+PAC000664_g EU510350_s: ex에서 새로 검출됨.
+Acetatifactor PAC001373_s: 0.647059만큼 변화함.
+Clostridium cocleatum: -0.875000만큼 변화함.
+Clostridium indolis group: ex에서 새로 검출됨.
+Caproiciproducens DQ777923_s: ex에서 새로 검출됨.
+Gemella palaticanis: 0.812500만큼 변화함.
+Acetatifactor PAC001801_s: 0.562500만큼 변화함.
+Acutalibacter PAC002354_s: 0.937500만큼 변화함.
+Proteus mirabilis: 0.500000만큼 변화함.
+Alistipes finegoldii: 0.800000만큼 변화함.
+KE159600_g EU511112_s: -0.400000만큼 변화함.
+Anaerotignum PAC001540_s: -7.800000만큼 변화함.
+Oscillibacter PAC002110_s: -1.866667만큼 변화함.
+PAC002153_g PAC002153_s: 0.333333만큼 변화함.
+PAC001092_g HM124316_s: ex에서 새로 검출됨.
+PAC001588_g PAC001669_s: 0.857143만큼 변화함.
+PAC000197_g PAC001787_s: 0.642857만큼 변화함.
+PAC002460_g PAC002460_s: 0.928571만큼 변화함.
+PAC000661_g PAC001312_s: -1.230769만큼 변화함.
+PAC000692_g PAC001567_s: -2.538462만큼 변화함.
+Pseudoflavonifractor PAC001667_s: ex에서 새로 검출됨.
+Anaerotignum PAC001740_s: 0.538462만큼 변화함.
+KE159571_g DQ815468_s: ex에서 새로 검출됨.
+Oscillibacter KE159714_s group: 0.416667만큼 변화함.
+Frisingicoccus PAC000688_s: 0.750000만큼 변화함.
+Oscillibacter PAC001369_s: 0.916667만큼 변화함.
+PAC001402_g PAC001402_s: 0.583333만큼 변화함.
+PAC001573_g PAC001808_s: 0.583333만큼 변화함.
+Pseudoflavonifractor PAC002473_s: ex에서 새로 검출됨.
+PAC000720_g PAC002507_s: 0.583333만큼 변화함.
+Acetatifactor muris: -0.454545만큼 변화함.
+LLKB_g EF100040_s: 0.909091만큼 변화함.
+Oscillibacter EU454342_s: ex에서 새로 검출됨.
+Clostridium_g21 KE159781_s: -0.363636만큼 변화함.
+Anaerotignum PAC001464_s: 0.909091만큼 변화함.
+PAC000661_g PAC001536_s: -3.909091만큼 변화함.
+PAC001200_g PAC001554_s: -0.545455만큼 변화함.
+PAC001762_g EF096150_s: -4.200000만큼 변화함.
+PAC001068_g EF097112_s: -1.500000만큼 변화함.
+PAC000186_g EF406572_s: -1.900000만큼 변화함.
+Clostridium_g24 EU009769_s: ex에서 새로 검출됨.
+Lactobacillus satsumensis: -2.400000만큼 변화함.
+PAC000197_g PAC000197_s: 0.800000만큼 변화함.
+Ruminococcus PAC001122_s: -7.700000만큼 변화함.
+PAC001112_g PAC001359_s: -0.500000만큼 변화함.
+PAC001362_g PAC001392_s: 0.400000만큼 변화함.
+Acutalibacter PAC001614_s: ex에서 새로 검출됨.
+Clostridium_g24 DS990270_s: ex에서 새로 검출됨.
+Clostridium_g24 EU462188_s: ex에서 새로 검출됨.
+LLKB_g PAC001047_s: ex에서 새로 검출됨.
+Oscillibacter PAC001368_s: 0.666667만큼 변화함.
+PAC002518_g PAC002518_s: ex에서 새로 검출됨.
+PAC001458_g DQ115991_s: ex에서 새로 검출됨.
+PAC001165_g EU622677_s: ex에서 새로 검출됨.
+Pseudoflavonifractor PAC001088_s: -0.500000만큼 변화함.
+Sporobacter PAC001257_s: -1.125000만큼 변화함.
+PAC001402_g PAC001748_s: -0.625000만큼 변화함.
+Kineothrix AB606257_s: ex에서 새로 검출됨.
+Pseudoflavonifractor ADDX_s: 0.714286만큼 변화함.
+Lactobacillus FN667084_s: -0.857143만큼 변화함.
+GU324393_g GU324393_s: ex에서 새로 검출됨.
+PAC001440_g HM124244_s: ex에서 새로 검출됨.
+PAC001127_g PAC001127_s: ex에서 새로 검출됨.
+PAC001525_g PAC001525_s: 0.857143만큼 변화함.
+PAC001103_g PAC001724_s group: 0.857143만큼 변화함.
+Acetatifactor PAC001773_s: -0.714286만큼 변화함.
+PAC000661_g PAC001785_s: -0.428571만큼 변화함.
+PAC000664_g PAC002004_s group: -6.428571만큼 변화함.
+Pseudoflavonifractor PAC002475_s: ex에서 새로 검출됨.
+Parasutterella excrementihominis group: -17.571429만큼 변화함.
+PAC001165_g EF603797_s: 0.666667만큼 변화함.
+FMWZ_g EU475527_s: ex에서 새로 검출됨.
+Clostridium_g24 EU504811_s: ex에서 새로 검출됨.
+AB185775_g EU622732_s: -9.833333만큼 변화함.
+Acetatifactor FJ881208_s: 0.500000만큼 변화함.
+Pseudoflavonifractor JQ084175_s: ex에서 새로 검출됨.
+Lactobacillus secaliphilus: 0.833333만큼 변화함.
+Clostridium_g24 PAC001164_s: ex에서 새로 검출됨.
+Prevotella PAC001304_s: ex에서 새로 검출됨.
+PAC001400_g PAC001400_s: 0.333333만큼 변화함.
+PAC001457_g PAC001495_s group: -0.666667만큼 변화함.
+Pseudoflavonifractor PAC001548_s: -3.666667만큼 변화함.
+PAC000661_g PAC001695_s: 0.833333만큼 변화함.
+PAC001068_g PAC001736_s: -11.333333만큼 변화함.
+PAC001228_g PAC002027_s: -0.666667만큼 변화함.
+Pseudoflavonifractor PAC002132_s: 0.333333만큼 변화함.
+Oscillibacter PAC002372_s: 0.500000만큼 변화함.
+PAC000661_g PAC002438_s: -1.500000만큼 변화함.
+LLKB_g AB626939_s: -1.000000만큼 변화함.
+DQ673521_g DQ673521_s: ex에서 새로 검출됨.
+KE159571_g DQ815838_s: -3.400000만큼 변화함.
+PAC000661_g EU462785_s: ex에서 새로 검출됨.
+Clostridium_g24 FJ364032_s: ex에서 새로 검출됨.
+Faecalibacterium prausnitzii group: ex에서 새로 검출됨.
+GQ451258_g GQ451237_s: 0.800000만큼 변화함.
+PAC000664_g HM124248_s: ex에서 새로 검출됨.
+PAC000661_g JQ084476_s: -0.600000만큼 변화함.
+PAC000671_g PAC000671_s: ex에서 새로 검출됨.
+Sporobacter PAC001096_s: -3.400000만큼 변화함.
+PAC001141_g PAC001141_s: -1.800000만큼 변화함.
+Eubacterium_g4 PAC001174_s: -2.400000만큼 변화함.
+KE159571_g PAC001705_s: ex에서 새로 검출됨.
+PAC001092_g PAC001726_s: 0.400000만큼 변화함.
+PAC001778_g PAC001778_s: -1.600000만큼 변화함.
+PAC002314_g PAC002314_s: -0.400000만큼 변화함.
+PAC000661_g PAC002514_s group: 0.600000만큼 변화함.
+PAC001097_g AB606350_s: ex에서 새로 검출됨.
+Bacteroides dorei: 0.750000만큼 변화함.
+Pseudoflavonifractor EU454100_s: ex에서 새로 검출됨.
+Clostridium_g24 EU459637_s: ex에서 새로 검출됨.
+EU778577_g EU778577_s: ex에서 새로 검출됨.
+Clostridium_g24 FJ512204_s: ex에서 새로 검출됨.
+PAC000664_g FJ880454_s: ex에서 새로 검출됨.
+PAC000664_g FJ880975_s: ex에서 새로 검출됨.
+PAC000664_g HM124003_s: ex에서 새로 검출됨.
+Intestinimonas butyriciproducens: 0.500000만큼 변화함.
+Clostridium_g24 PAC000184_s: ex에서 새로 검출됨.
+PAC001043_g PAC001043_s: ex에서 새로 검출됨.
+PAC001091_g PAC001091_s: -41.750000만큼 변화함.
+PAC001108_g PAC001193_s: -0.500000만큼 변화함.
+PAC000748_g PAC001412_s: -0.750000만큼 변화함.
+Acetatifactor PAC001749_s: 0.750000만큼 변화함.
+Clostridium_g21 PAC001757_s group: -7.000000만큼 변화함.
+Pseudoflavonifractor PAC002119_s group: ex에서 새로 검출됨.
+Pseudoflavonifractor PAC002302_s: -4.000000만큼 변화함.
+PAC001092_g AB626932_s: ex에서 새로 검출됨.
+PAC001092_g EF097984_s: ex에서 새로 검출됨.
+Frisingicoccus FJ879454_s: ex에서 새로 검출됨.
+PAC001516_g FJ880744_s: ex에서 새로 검출됨.
+PAC000664_g FJ880752_s: ex에서 새로 검출됨.
+PAC000672_g HM123911_s: -2.666667만큼 변화함.
+Muribaculum PAC001076_s: ex에서 새로 검출됨.
+PAC001212_g PAC001212_s: 0.666667만큼 변화함.
+PAC001165_g PAC001384_s: 0.666667만큼 변화함.
+KE159605_g PAC001396_s: 0.333333만큼 변화함.
+PAC001103_g PAC001487_s: ex에서 새로 검출됨.
+Paludicola PAC001507_s: -0.666667만큼 변화함.
+PAC001043_g PAC001557_s: -1.000000만큼 변화함.
+PAC000661_g PAC001565_s: 0.333333만큼 변화함.
+Oscillibacter PAC001584_s group: -1.000000만큼 변화함.
+Anaerotruncus PAC001590_s: ex에서 새로 검출됨.
+Pseudoflavonifractor PAC001608_s: ex에서 새로 검출됨.
+PAC001609_g PAC001650_s: -6.000000만큼 변화함.
+LLKB_g PAC001694_s: -0.666667만큼 변화함.
+PAC001043_g PAC001703_s: ex에서 새로 검출됨.
+Clostridium_g24 PAC002341_s group: ex에서 새로 검출됨.
+PAC001043_g PAC002439_s: ex에서 새로 검출됨.
+Bilophila PAC002477_s: 0.333333만큼 변화함.
+Streptococcus acidominimus group: ex에서 새로 검출됨.
+PAC001296_g AB626952_s: ex에서 새로 검출됨.
+LLKB_g AF371672_s: ex에서 새로 검출됨.
+Alistipes inops: ex에서 새로 검출됨.
+Alistipes obesi: -1.000000만큼 변화함.
+Bacteroides stercorirosoris: -5.500000만큼 변화함.
+Clostridium hylemonae: ex에서 새로 검출됨.
+Dorea massiliensis: ex에서 새로 검출됨.
+Clostridium_g24 EF098925_s: ex에서 새로 검출됨.
+Oscillibacter EU454374_s: -1.000000만큼 변화함.
+PAC000198_g EU455014_s: ex에서 새로 검출됨.
+FJ881160_g EU504118_s: ex에서 새로 검출됨.
+FR888536_g EU622705_s: ex에서 새로 검출됨.
+Oscillibacter FJ678358_s: -1.500000만큼 변화함.
+Oscillibacter FJ881219_s: -2.000000만큼 변화함.
+PAC000692_g HM124219_s: ex에서 새로 검출됨.
+Pseudoflavonifractor HQ716472_s: ex에서 새로 검출됨.
+Pseudoflavonifractor LN866274_s: 0.500000만큼 변화함.
+PAC000664_g PAC001082_s: ex에서 새로 검출됨.
+KE159538_g PAC001094_s: -1.500000만큼 변화함.
+PAC001124_g PAC001124_s: ex에서 새로 검출됨.
+Pseudoflavonifractor PAC001159_s: ex에서 새로 검출됨.
+PAC001141_g PAC001218_s: ex에서 새로 검출됨.
+PAC001276_g PAC001276_s: ex에서 새로 검출됨.
+PAC001308_g PAC001308_s: -1.000000만큼 변화함.
+PAC001149_g PAC001511_s: -3.500000만큼 변화함.
+PAC001588_g PAC001588_s: -17.000000만큼 변화함.
+Oscillibacter PAC001706_s: ex에서 새로 검출됨.
+Ruminococcus_g4 PAC001711_s: ex에서 새로 검출됨.
+PAC001762_g PAC001762_s: -5.500000만큼 변화함.
+KE159538_g PAC001770_s: -87.000000만큼 변화함.
+PAC002042_g PAC002180_s: ex에서 새로 검출됨.
+Syntrophococcus PAC002313_s: -1.000000만큼 변화함.
+PAC002390_g PAC002390_s: -2.500000만큼 변화함.
+Pseudoflavonifractor PAC002474_s: ex에서 새로 검출됨.
+Clostridium_g21 PAC002492_s: 0.500000만큼 변화함.
+Parvibacter caecicola: -1.000000만큼 변화함.
+AB494769_g AB494769_s: ex에서 새로 검출됨.
+AB606281_g AB606281_s: -3.000000만큼 변화함.
+PAC001092_g AB626904_s: ex에서 새로 검출됨.
+Clostridium_g24 ACFX_s: ex에서 새로 검출됨.
+AF371579_g AF371579_s: ex에서 새로 검출됨.
+GU324393_g AF371666_s: ex에서 새로 검출됨.
+AY212760_g AY212760_s: ex에서 새로 검출됨.
+Clostridium_g24 BBZO_s: -2.000000만큼 변화함.
+Bacteroides fragilis: ex에서 새로 검출됨.
+Bacteroides thetaiotaomicron: ex에서 새로 검출됨.
+Blautia DQ456377_s: ex에서 새로 검출됨.
+Dorea formicigenerans: ex에서 새로 검출됨.
+Pseudoflavonifractor EF098922_s: ex에서 새로 검출됨.
+Odoribacter EF603194_s: ex에서 새로 검출됨.
+Blautia EU462939_s: ex에서 새로 검출됨.
+Blautia EU463003_s: ex에서 새로 검출됨.
+Clostridium_g21 EU506235_s: -12.000000만큼 변화함.
+PAC001219_g EU509975_s: -7.000000만큼 변화함.
+PAC001124_g EU622678_s: ex에서 새로 검출됨.
+Oscillibacter EU771312_s: -3.000000만큼 변화함.
+EU728771_g EU775954_s: ex에서 새로 검출됨.
+EU137610_g EU794239_s: ex에서 새로 검출됨.
+PAC001043_g FJ681675_s: ex에서 새로 검출됨.
+PAC001681_g HM848915_s: ex에서 새로 검출됨.
+HQ748727_g HQ748727_s: ex에서 새로 검출됨.
+Clostridium_g24 HQ775480_s: ex에서 새로 검출됨.
+KE159571_g KE159567_s: -1.000000만큼 변화함.
+Lactobacillus plantarum group: ex에서 새로 검출됨.
+Pseudoflavonifractor NFMA_s: ex에서 새로 검출됨.
+Ornithinibacillus halophilus: ex에서 새로 검출됨.
+Kineothrix PAC001125_s: -6.000000만큼 변화함.
+PAC000661_g PAC001202_s: -12.000000만큼 변화함.
+Bacteroides PAC001204_s: ex에서 새로 검출됨.
+PAC001219_g PAC001280_s: ex에서 새로 검출됨.
+PAC000196_g PAC001335_s group: ex에서 새로 검출됨.
+Eubacterium_g17 PAC001380_s: ex에서 새로 검출됨.
+PAC000692_g PAC001387_s: -7.000000만큼 변화함.
+PAC001465_g PAC001465_s: ex에서 새로 검출됨.
+Pseudoflavonifractor PAC001542_s: -1.000000만큼 변화함.
+KE159571_g PAC001555_s: ex에서 새로 검출됨.
+PAC000661_g PAC001654_s: -1.000000만큼 변화함.
+PAC001266_g PAC001674_s: ex에서 새로 검출됨.
+PAC000661_g PAC001768_s: -10.000000만큼 변화함.
+PAC001092_g PAC001811_s: ex에서 새로 검출됨.
+PAC001270_g PAC001899_s group: -12.000000만큼 변화함.
+Enterorhabdus PAC001978_s: ex에서 새로 검출됨.
+KE159797_g PAC001980_s: ex에서 새로 검출됨.
+PAC000661_g PAC002158_s: -3.000000만큼 변화함.
+Eisenbergiella PAC002175_s: ex에서 새로 검출됨.
+PAC002462_g PAC002462_s: ex에서 새로 검출됨.
+PAC000661_g PAC002496_s: ex에서 검출되지 않음
+Bifidobacterium pseudolongum group: ex에서 검출되지 않음
+PAC001118_g PAC002344_s: ex에서 검출되지 않음
+PAC000683_g PAC001005_s: ex에서 검출되지 않음
+PAC001544_g PAC001544_s: ex에서 검출되지 않음
+Romboutsia timonensis: ex에서 검출되지 않음
+PAC000661_g AF371820_s: ex에서 검출되지 않음
+KE159600_g PAC001459_s: ex에서 검출되지 않음
+PAC002368_g PAC002368_s: ex에서 검출되지 않음
+PAC001308_g DQ815557_s: ex에서 검출되지 않음
+FR888536_g PAC001797_s: ex에서 검출되지 않음
+Eubacterium_g17 PAC001571_s: ex에서 검출되지 않음
+KE159571_g PAC002009_s group: ex에서 검출되지 않음
+PAC000661_g PAC001782_s: ex에서 검출되지 않음
+PAC001108_g PAC001108_s: ex에서 검출되지 않음
+PAC000661_g DQ394662_s: ex에서 검출되지 않음
+Eubacterium_g23 PAC001121_s group: ex에서 검출되지 않음
+PAC000661_g PAC001154_s: ex에서 검출되지 않음
+Anaerotignum EF096613_s: ex에서 검출되지 않음
+PAC000661_g AY858424_s: ex에서 검출되지 않음
+Akkermansia muciniphila: ex에서 검출되지 않음
+PAC000661_g JQ084169_s: ex에서 검출되지 않음
+PAC001138_g PAC001775_s: ex에서 검출되지 않음
+LLKB_g EU510160_s: ex에서 검출되지 않음
+FTRU_g PAC001367_s: ex에서 검출되지 않음
+Clostridium_g21 PAC001772_s: ex에서 검출되지 않음
+PAC000661_g PAC002012_s: ex에서 검출되지 않음
+Eubacterium_g17 HQ716480_s: ex에서 검출되지 않음
+Eubacterium_g6 PAC002403_s: ex에서 검출되지 않음
+PAC001109_g AB626901_s: ex에서 검출되지 않음
+PAC001109_g PAC001273_s: ex에서 검출되지 않음
+Acetatifactor PAC001463_s: ex에서 검출되지 않음
+PAC001116_g PAC001589_s: ex에서 검출되지 않음
+PAC000661_g PAC001983_s: ex에서 검출되지 않음
+PAC001225_g PAC002005_s: ex에서 검출되지 않음
+PAC000661_g PAC002159_s: ex에서 검출되지 않음
+PAC000661_g AB606366_s: ex에서 검출되지 않음
+PAC001138_g EU472145_s: ex에서 검출되지 않음
+HM124077_g HM124077_s: ex에서 검출되지 않음
+PAC001266_g PAC001357_s: ex에서 검출되지 않음
+Eubacterium_g4 DQ394642_s: ex에서 검출되지 않음
+Oscillibacter EU457459_s: ex에서 검출되지 않음
+Enterococcus faecalis: ex에서 검출되지 않음
+Escherichia coli group: ex에서 검출되지 않음
+PAC000661_g FJ671863_s: ex에서 검출되지 않음
+Oscillibacter GU302582_s: ex에서 검출되지 않음
+PAC000661_g PAC001624_s: ex에서 검출되지 않음
+Frisingicoccus PAC001702_s: ex에서 검출되지 않음
+PAC001144_g PAC001913_s: ex에서 검출되지 않음
+Eubacterium_g6 PAC002177_s: ex에서 검출되지 않음
+PAC002375_g PAC002375_s: ex에서 검출되지 않음
+Eubacterium_g20 AF371632_s: ex에서 검출되지 않음
+Agathobaculum AY858529_s: ex에서 검출되지 않음
+PAC000661_g DQ394665_s: ex에서 검출되지 않음
+FMWZ_g EU471770_s: ex에서 검출되지 않음
+PAC000661_g FJ440053_s: ex에서 검출되지 않음
+PAC002400_g FJ881296_s: ex에서 검출되지 않음
+PAC001108_g JQ084612_s: ex에서 검출되지 않음
+Paludicola PAC000694_s: ex에서 검출되지 않음
+PAC000661_g PAC001086_s: ex에서 검출되지 않음
+PAC001165_g PAC001165_s: ex에서 검출되지 않음
+KE159600_g PAC001232_s: ex에서 검출되지 않음
+PAC001063_g PAC001664_s: ex에서 검출되지 않음
+KE159797_g PAC001719_s: ex에서 검출되지 않음
+Coprococcus_g2 PAC001722_s: ex에서 검출되지 않음
+PAC000661_g PAC002104_s: ex에서 검출되지 않음
+PAC001372_g PAC002350_s: ex에서 검출되지 않음
+PAC001360_g PAC002505_s: ex에서 검출되지 않음
+LLKB_g AB606340_s: ex에서 검출되지 않음
+PAC000661_g AB606378_s: ex에서 검출되지 않음
+PAC000661_g AB626903_s: ex에서 검출되지 않음
+AB270041_g EU463505_s: ex에서 검출되지 않음
+PAC000661_g EU470107_s: ex에서 검출되지 않음
+EU474900_g EU474900_s: ex에서 검출되지 않음
+PAC001109_g PAC001203_s: ex에서 검출되지 않음
+PAC001360_g PAC001360_s: ex에서 검출되지 않음
+Frisingicoccus PAC001364_s: ex에서 검출되지 않음
+PAC001092_g PAC001587_s: ex에서 검출되지 않음
+PAC000661_g PAC001721_s: ex에서 검출되지 않음
+Roseburia cecicola group: ex에서 검출되지 않음
+PAC001308_g AB606342_s: ex에서 검출되지 않음
+Bacteroides faecis: ex에서 검출되지 않음
+Moheibacter DQ346484_s: ex에서 검출되지 않음
+Oscillibacter EU456461_s: ex에서 검출되지 않음
+Pseudoflavonifractor EU622686_s: ex에서 검출되지 않음
+Sporobacter EU772049_s: ex에서 검출되지 않음
+Bacteroides JN559675_s: ex에서 검출되지 않음
+Jeotgalicoccus halotolerans group: ex에서 검출되지 않음
+Lactobacillus rodentium: ex에서 검출되지 않음
+PAC000661_g PAC001095_s: ex에서 검출되지 않음
+PAC001231_g PAC001231_s: ex에서 검출되지 않음
+FR888536_g PAC001268_s: ex에서 검출되지 않음
+PAC001485_g PAC001485_s: ex에서 검출되지 않음
+Paludicola PAC001506_s: ex에서 검출되지 않음
+PAC001609_g PAC001610_s: ex에서 검출되지 않음
+PAC001612_g PAC001612_s: ex에서 검출되지 않음
+KE159571_g PAC002035_s: ex에서 검출되지 않음
+PAC002196_g PAC002196_s: ex에서 검출되지 않음
+PAC001270_g PAC002420_s: ex에서 검출되지 않음
