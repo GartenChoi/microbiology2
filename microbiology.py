@@ -7,7 +7,7 @@ def compare(com1,com2):
 
     comd1={}
 
-    comw=open('data/%s_vs_%s.txt'%(com1,com2),'w',encoding='utf-8')
+    comw=open('result/%s_vs_%s.txt'%(com1,com2),'w',encoding='utf-8')
 
     for line in csv.reader(comf1):
         if line[2]=='Count':continue
