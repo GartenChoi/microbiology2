@@ -18,7 +18,7 @@ def compare(com1,com2):
         try:
             ratio=comd1[line[0]]/int(line[2])
             if ratio>1.3 or ratio<0.7:
-                comw.write('%s: %f만큼 변화함.\n'%(line[0],1-ratio))
+                comw.write('%s: %f만큼 변화함.\n'%(line[0],ratio-1))
             del comd1[line[0]]
         except:comw.write('%s: %s에서 새로 검출됨.\n'%(line[0],com2))
     for key in comd1.keys():
