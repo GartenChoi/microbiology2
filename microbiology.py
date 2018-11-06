@@ -18,10 +18,12 @@ def compare(com1, com2):
     for line in csv.reader(comf2):
         if line[2] == 'Count': continue
         try:
-            ratio = int(line[2]) / comd1[line[0]]
+            ratio = int(line[2]) / comd1[line[0]]*100
             # ratio = comd1[line[0]]/int(line[2])
             if ratio > 1.2 or ratio < 0.8:
-                comw.write('%s: %f만큼 변화함.\n' % (line[0], ratio - 1))
+                comw.write('%s: %g%% 증가함.\n' % (line[0], ratio - 100))
+            elif ratio < 0.8:
+                comw.write('%s: %g%% 감소함.\n' % (line[0], 100 - ratio))
             del comd1[line[0]]
         except:
             coml2.append(line[0])
