@@ -15,11 +15,11 @@ def compare(com1, com2):
     comwhtml.write('<html><head><style>.up{color:#800} .down{color:#008}</style></head><body>')
 
     for line in csv.reader(comf1):
-        if line[2] == 'Count': continue
+        if line[0] == 'Taxon name' or line[0].startswith('PAC00') or line[0].startswith('KE1'): continue
         comd1[line[0]] = int(line[2])
 
     for line in csv.reader(comf2):
-        if line[2] == 'Count': continue
+        if line[0] == 'Taxon name' or line[0].startswith('PAC00') or line[0].startswith('KE1'): continue
         try:
             ratio = int(line[2]) / comd1[line[0]] * 100
             # ratio = comd1[line[0]]/int(line[2])
