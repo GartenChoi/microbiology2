@@ -315,9 +315,6 @@ PAC001103_g PAC001724_s group: 88.8889% 감소함.
 PAC001573_g PAC002010_s: 96.1538% 감소함.
 KE159571_g PAC002035_s: 66.6667% 감소함.
 PAC002460_g PAC002460_s: 90% 감소함.
-
-#################### new ####################
-
 PAC000661_g PAC000686_s: con에서 새로 검출됨.
 Muribaculum PAC001077_s: con에서 새로 검출됨.
 PAC000197_g EF406725_s: con에서 새로 검출됨.
@@ -410,9 +407,6 @@ PAC000198_g PAC002296_s: con에서 새로 검출됨.
 Acutalibacter PAC002354_s: con에서 새로 검출됨.
 PAC001270_g PAC002420_s: con에서 새로 검출됨.
 Clostridium_g21 PAC002492_s: con에서 새로 검출됨.
-
-#################### removed ####################
-
 Facklamia tabacinasalis: con에서 검출되지 않음
 Corynebacterium casei: con에서 검출되지 않음
 Corynebacterium stationis: con에서 검출되지 않음

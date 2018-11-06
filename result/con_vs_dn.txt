@@ -296,9 +296,6 @@ PAC001402_g PAC001764_s: 90.9091% 감소함.
 Clostridium_g21 PAC001772_s: 87.5% 감소함.
 PAC002039_g PAC002039_s: 83.3333% 감소함.
 PAC001266_g PAC002299_s: 92.8571% 감소함.
-
-#################### new ####################
-
 PAC000687_g PAC000687_s: dn에서 새로 검출됨.
 PAC000661_g EU462785_s: dn에서 새로 검출됨.
 Pseudoflavonifractor FJ879979_s: dn에서 새로 검출됨.
@@ -378,9 +375,6 @@ PAC001516_g PAC001741_s: dn에서 새로 검출됨.
 PAC000664_g PAC001769_s: dn에서 새로 검출됨.
 Enterorhabdus PAC001978_s: dn에서 새로 검출됨.
 PAC001091_g PAC002458_s: dn에서 새로 검출됨.
-
-#################### removed ####################
-
 PAC001212_g PAC001809_s: dn에서 검출되지 않음
 PAC000661_g PAC000686_s: dn에서 검출되지 않음
 Bifidobacterium pseudolongum group: dn에서 검출되지 않음

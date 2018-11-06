@@ -308,9 +308,6 @@ PAC000661_g PAC001654_s: 50% 감소함.
 PAC000661_g PAC001768_s: 90.9091% 감소함.
 PAC001270_g PAC001899_s group: 92.3077% 감소함.
 PAC000661_g PAC002158_s: 75% 감소함.
-
-#################### new ####################
-
 PAC001092_g PAC001388_s: ex에서 새로 검출됨.
 Acutalibacter AB622826_s: ex에서 새로 검출됨.
 KE159571_g PAC002495_s: ex에서 새로 검출됨.
@@ -432,9 +429,6 @@ Enterorhabdus PAC001978_s: ex에서 새로 검출됨.
 KE159797_g PAC001980_s: ex에서 새로 검출됨.
 Eisenbergiella PAC002175_s: ex에서 새로 검출됨.
 PAC002462_g PAC002462_s: ex에서 새로 검출됨.
-
-#################### removed ####################
-
 PAC000661_g PAC002496_s: ex에서 검출되지 않음
 Bifidobacterium pseudolongum group: ex에서 검출되지 않음
 PAC001118_g PAC002344_s: ex에서 검출되지 않음
