@@ -24,11 +24,11 @@ def compare(com1, com2):
             ratio = int(line[2]) / comd1[line[0]] * 100
             # ratio = comd1[line[0]]/int(line[2])
             if ratio > 120:
-                comwtxt.write('%s: %g%%로 증가함.\n' % (line[0], ratio))
-                comwhtml.write('<div class="up">%s: %g%%로 증가함.</div>' % (line[0], ratio))
+                comwtxt.write('%s: %g%%로 증가함. count %d \n' % (line[0], ratio,int(line[2])))
+                comwhtml.write('<div class="up">%s: %g%%로 증가함. count %d </div>' % (line[0], ratio,int(line[2])))
             elif ratio < 80:
-                comwtxt.write('%s: %g%%로 감소함.\n' % (line[0], ratio))
-                comwhtml.write('<div class="down">%s: %g%%로 감소함.</div>' % (line[0], ratio))
+                comwtxt.write('%s: %g%%로 감소함. count %d \n' % (line[0], ratio,int(line[2])))
+                comwhtml.write('<div class="down">%s: %g%%로 감소함. count %d </div>' % (line[0], ratio,int(line[2])))
             del comd1[line[0]]
         except:
             comd2[line[0]] = int(line[2])
