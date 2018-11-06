@@ -7,6 +7,7 @@ def compare(com1, com2):
     comf2 = open('data/%s_species.csv' % com2, 'r')
 
     comd1 = {}
+    coml2=[]
 
     comw = open('result/%s_vs_%s.txt' % (com1, com2), 'w', encoding='utf-8')
 
@@ -17,12 +18,17 @@ def compare(com1, com2):
     for line in csv.reader(comf2):
         if line[2] == 'Count': continue
         try:
-            ratio = comd1[line[0]] / int(line[2])
-            if ratio > 1.3 or ratio < 0.7:
+            ratio = int(line[2]) / comd1[line[0]]
+            # ratio = comd1[line[0]]/int(line[2])
+            if ratio > 1.2 or ratio < 0.8:
                 comw.write('%s: %f만큼 변화함.\n' % (line[0], ratio - 1))
             del comd1[line[0]]
         except:
-            comw.write('%s: %s에서 새로 검출됨.\n' % (line[0], com2))
+            coml2.append(line[0])
+    comw.write('\n#################### new ####################\n\n')
+    for name in coml2:
+        comw.write('%s: %s에서 새로 검출됨.\n' % (name, com2))
+    comw.write('\n#################### removed ####################\n\n')
     for key in comd1.keys():
         comw.write('%s: %s에서 검출되지 않음\n' % (key, com2))
 
