@@ -7,7 +7,7 @@ def compare(com1, com2):
     comf2 = open('data/%s_species.csv' % com2, 'r')
 
     comd1 = {}
-    coml2 = []
+    comd2 = {}
 
     comwtxt = open('result/%s_vs_%s.txt' % (com1, com2), 'w', encoding='utf-8')
     comwhtml = open('result/%s_vs_%s.html' % (com1, com2), 'w', encoding='utf-8')
@@ -21,23 +21,23 @@ def compare(com1, com2):
     for line in csv.reader(comf2):
         if line[2] == 'Count': continue
         try:
-            ratio = int(line[2]) / comd1[line[0]] * 100 - 100
+            ratio = int(line[2]) / comd1[line[0]] * 100
             # ratio = comd1[line[0]]/int(line[2])
-            if ratio > 20:
-                comwtxt.write('%s: %g%% 증가함.\n' % (line[0], ratio))
-                comwhtml.write('<div class="up">%s: %g%% 증가함.</div>' % (line[0], ratio))
-            elif ratio < -20:
-                comwtxt.write('%s: %g%% 감소함.\n' % (line[0], - ratio))
-                comwhtml.write('<div class="down">%s: %g%% 감소함.</div>' % (line[0], - ratio))
+            if ratio > 120:
+                comwtxt.write('%s: %g%%로 증가함.\n' % (line[0], ratio))
+                comwhtml.write('<div class="up">%s: %g%%로 증가함.</div>' % (line[0], ratio))
+            elif ratio < 80:
+                comwtxt.write('%s: %g%%로 감소함.\n' % (line[0], ratio))
+                comwhtml.write('<div class="down">%s: %g%%로 감소함.</div>' % (line[0], ratio))
             del comd1[line[0]]
         except:
-            coml2.append(line[0])
-    for name in coml2:
-        comwtxt.write('%s: %s에서 새로 검출됨.\n' % (name, com2))
-        comwhtml.write('<div class="up">%s: %s에서 새로 검출됨.</div>' % (name, com2))
-    for key in comd1.keys():
-        comwtxt.write('%s: %s에서 검출되지 않음\n' % (key, com2))
-        comwhtml.write('<div class="down">%s: %s에서 검출되지 않음</div>' % (key, com2))
+            comd2[line[0]] = int(line[2])
+    for key,val in comd2.items():
+        comwtxt.write('%s: %s에서 새로 검출됨. count %d \n' % (key, com2, val))
+        comwhtml.write('<div class="up">%s: %s에서 새로 검출됨. count %d </div>' % (key, com2, val))
+    for key,val in comd1.items():
+        comwtxt.write('%s: %s에서 검출되지 않음. count %d \n' % (key, com2, val))
+        comwhtml.write('<div class="down">%s: %s에서 검출되지 않음 count %d </div>' % (key, com2, val))
 
     comwhtml.write('</body></html>')
 
