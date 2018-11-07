@@ -45,3 +45,5 @@ if __name__ == "__main__":
     compare('con', 'dn')
     compare('dnex', 'con')
     compare('con', 'ex')
+    compare('dn', 'dnex')
+    compare('con', 'dnex')
