@@ -1,265 +1,265 @@
-Lactobacillus reuteri group: 123.593%로 증가함. count 4678 
-Desulfovibrio PAC001079_s: 551.173%로 증가함. count 2585 
-Lactobacillus murinus group: 10.8836%로 감소함. count 1951 
-Prevotella PAC002481_s: 183.25%로 증가함. count 1827 
-Lactobacillus intestinalis: 839.231%로 증가함. count 1091 
-Clostridium_g24 PAC001374_s: 2521.05%로 증가함. count 958 
-Bacteroides vulgatus: 312.097%로 증가함. count 774 
-Eubacterium_g17 PAC002487_s: 1370.27%로 증가함. count 507 
-Enterorhabdus caecimuris: 201.288%로 증가함. count 469 
-Arthromitus AP012202_s group: 151.383%로 증가함. count 383 
-Bacteroides caecimuris: 204.545%로 증가함. count 360 
-Oscillibacter PAC001501_s: 501.493%로 증가함. count 336 
-Caproiciproducens EU622658_s: 2709.09%로 증가함. count 298 
-Pseudoflavonifractor PAC001550_s: 512.069%로 증가함. count 297 
-EU456594_g EU456594_s: 8966.67%로 증가함. count 269 
-Enterorhabdus PAC002410_s: 248.837%로 증가함. count 214 
-Oscillibacter PAC001186_s group: 374.545%로 증가함. count 206 
-Oscillibacter PAC001188_s: 265.753%로 증가함. count 194 
-Muribaculum DQ815542_s: 207.609%로 증가함. count 191 
-Eubacterium_g17 PAC001119_s: 3000%로 증가함. count 180 
-Jeotgalicoccus halotolerans group: 17000%로 증가함. count 170 
-Anaerotignum AF157052_s: 836.842%로 증가함. count 159 
-Lactobacillus FN667084_s: 1184.62%로 증가함. count 154 
-Flintibacter butyricus group: 263.265%로 증가함. count 129 
-Bacteroides DQ805799_s: 235.185%로 증가함. count 127 
-Mucispirillum schaedleri: 183.871%로 증가함. count 114 
-Anaerotruncus KE159677_s: 407.407%로 증가함. count 110 
-Marvinbryantia PAC001753_s: 41.2698%로 감소함. count 104 
-Pseudoflavonifractor PAC001549_s: 230.769%로 증가함. count 90 
-Clostridium_g21 PAC002512_s group: 142.857%로 증가함. count 90 
-Enterorhabdus mucosicola: 222.5%로 증가함. count 89 
-Pseudoflavonifractor PAC001548_s: 292.857%로 증가함. count 82 
-Eubacterium_g8 PAC002357_s: 218.919%로 증가함. count 81 
-Clostridium_g24 PAC001376_s: 553.846%로 증가함. count 72 
-Acetatifactor PAC002332_s: 125%로 증가함. count 70 
-Enterorhabdus muris: 202.941%로 증가함. count 69 
-Anaerotignum PAC001540_s: 50%로 감소함. count 66 
-Pseudoflavonifractor PAC001543_s: 330%로 증가함. count 66 
-Massilioclostridium PAC001521_s: 232%로 증가함. count 58 
-Oscillibacter PAC001522_s: 130.233%로 증가함. count 56 
-Pseudoflavonifractor PAC001786_s: 177.419%로 증가함. count 55 
-Parabacteroides goldsteinii: 189.655%로 증가함. count 55 
-Pseudoflavonifractor PAC001087_s: 135%로 증가함. count 54 
-Bacteroides faecichinchillae: 123.81%로 증가함. count 52 
-Acutalibacter PAC001594_s: 433.333%로 증가함. count 52 
-Phocea PAC001158_s: 131.579%로 증가함. count 50 
-LLKB_g PAC001383_s: 333.333%로 증가함. count 50 
-Caproiciproducens PAC001505_s: 376.923%로 증가함. count 49 
-Bacteroides uniformis: 165.517%로 증가함. count 48 
-Eubacterium_g17 HQ716480_s: 671.429%로 증가함. count 47 
-Pseudoflavonifractor PAC002490_s: 235%로 증가함. count 47 
-Oscillibacter KE159714_s group: 642.857%로 증가함. count 45 
-Eubacterium_g6 PAC001227_s: 2250%로 증가함. count 45 
-Bacteroides DQ799557_s: 169.231%로 증가함. count 44 
-Eubacterium_g23 PAC001121_s group: 300%로 증가함. count 42 
-Clostridium_g24 AF371567_s: 1333.33%로 증가함. count 40 
-Clostridium_g21 PAC001294_s: 60.6061%로 감소함. count 40 
-Eubacterium_g17 PAC001571_s: 210.526%로 증가함. count 40 
-Pseudoflavonifractor PAC001574_s group: 2000%로 증가함. count 40 
-Bacteroides HM124113_s: 25.1656%로 감소함. count 38 
-LT706945_g PAC001747_s: 411.111%로 증가함. count 37 
-Acholeplasma_g2 PAC001080_s: 269.231%로 증가함. count 35 
-Pseudoflavonifractor PAC001379_s: 52.381%로 감소함. count 33 
-Oscillibacter PAC001156_s: 1550%로 증가함. count 31 
-Parasutterella excrementihominis group: 21.5385%로 감소함. count 28 
-Proteus mirabilis: 350%로 증가함. count 28 
-Acutalibacter muris: 41.5385%로 감소함. count 27 
-Pseudoflavonifractor PAC001131_s: 300%로 증가함. count 27 
-Oscillibacter PAC001526_s: 225%로 증가함. count 27 
-Agathobaculum PAC001688_s: 47.3684%로 감소함. count 27 
-Frisingicoccus EF409953_s: 500%로 증가함. count 25 
-Oscillibacter FJ678358_s: 500%로 증가함. count 25 
-Eubacterium_g8 PAC001244_s: 500%로 증가함. count 25 
-Clostridium_g21 PAC001757_s group: 75%로 감소함. count 24 
-LLKB_g PAC001694_s: 440%로 증가함. count 22 
-Oscillibacter PAC001638_s: 15.5556%로 감소함. count 21 
-Enterorhabdus PAC001730_s: 500%로 증가함. count 20 
-LLKB_g EF100040_s: 1900%로 증가함. count 19 
-Enterococcus faecalis: 450%로 증가함. count 18 
-Sporobacter PAC001096_s: 77.2727%로 감소함. count 17 
-Lachnospira PAC002369_s: 340%로 증가함. count 17 
-Lactobacillus satsumensis: 47.0588%로 감소함. count 16 
-Pseudoflavonifractor PAC001547_s: 177.778%로 증가함. count 16 
-Paludicola PAC001784_s: 400%로 증가함. count 16 
-Acetatifactor PAC001801_s: 228.571%로 증가함. count 16 
-Bacteroides xylanisolvens group: 150%로 증가함. count 15 
-Frisingicoccus PAC000688_s: 466.667%로 증가함. count 14 
-Anaerotignum PAC001740_s: 233.333%로 증가함. count 14 
-LLKB_g AB626939_s: 130%로 증가함. count 13 
-Acetatifactor PAC001373_s: 216.667%로 증가함. count 13 
-Ruminococcus PAC001122_s: 13.7931%로 감소함. count 12 
-Emergencia PAC001235_s: 21.4286%로 감소함. count 12 
-FR888536_g PAC001268_s: 1200%로 증가함. count 12 
-Kineothrix alysoides: 36.6667%로 감소함. count 11 
-Roseburia PAC001271_s: 50%로 감소함. count 11 
-Oscillibacter PAC001684_s: 122.222%로 증가함. count 11 
-Streptococcus danieliae: 220%로 증가함. count 11 
-Clostridium scindens: 250%로 증가함. count 10 
-Oscillibacter EU771312_s: 250%로 증가함. count 10 
-LLKB_g PAC001902_s: 250%로 증가함. count 10 
-LLKB_g PAC002469_s: 166.667%로 증가함. count 10 
-Clostridium_g21 EU455375_s: 300%로 증가함. count 9 
-Oscillibacter PAC002110_s: 20.9302%로 감소함. count 9 
-Oscillibacter PAC001369_s: 800%로 증가함. count 8 
-Paludicola PAC001507_s: 160%로 증가함. count 8 
-Pseudoflavonifractor PAC001761_s: 160%로 증가함. count 8 
-Acetatifactor PAC001773_s: 66.6667%로 감소함. count 8 
-Pseudoflavonifractor PAC002132_s: 200%로 증가함. count 8 
-Alistipes obesi: 175%로 증가함. count 7 
-Bacteroides dorei: 700%로 증가함. count 7 
-AB185775_g EU622732_s: 10.7692%로 감소함. count 7 
-Acetatifactor FJ881208_s: 233.333%로 증가함. count 7 
-Oscillibacter PAC001368_s: 233.333%로 증가함. count 7 
-Frisingicoccus PAC001399_s: 350%로 증가함. count 7 
-Oscillibacter PAC001502_s: 140%로 증가함. count 7 
-Pseudoflavonifractor PAC002302_s: 35%로 감소함. count 7 
-Bifidobacterium pseudolongum group: 4.44444%로 감소함. count 6 
-Pseudoflavonifractor LN866274_s: 600%로 증가함. count 6 
-Clostridium_g24 PAC000183_s: 40%로 감소함. count 6 
-AB606281_g AB606281_s: 125%로 증가함. count 5 
-Alistipes finegoldii: 133.333%로 증가함. count 4 
-Bacteroides finegoldii: 57.1429%로 감소함. count 4 
-Bacteroides stercorirosoris: 30.7692%로 감소함. count 4 
-Oscillibacter FJ881219_s: 66.6667%로 감소함. count 4 
-Anaerotignum PAC001464_s: 400%로 증가함. count 4 
-Bilophila PAC002477_s: 200%로 증가함. count 4 
-Acetatifactor muris: 18.75%로 감소함. count 3 
-Intestinimonas butyriciproducens: 150%로 증가함. count 3 
-Anaerotignum EF096613_s: 18.1818%로 감소함. count 2 
-Clostridium_g21 EU506235_s: 15.3846%로 감소함. count 2 
-Bacteroides JN559675_s: 200%로 증가함. count 2 
-Lactobacillus rodentium: 200%로 증가함. count 2 
-Eubacterium_g6 PAC001586_s: 25%로 감소함. count 2 
-Frisingicoccus PAC001702_s: 50%로 감소함. count 2 
-Pseudoflavonifractor ADDX_s: 50%로 감소함. count 1 
-Akkermansia muciniphila: 10%로 감소함. count 1 
-Clostridium_g24 BBZO_s: 33.3333%로 감소함. count 1 
-Oscillibacter EU457459_s: 25%로 감소함. count 1 
-EU474900_g EU474900_s: 50%로 감소함. count 1 
-Escherichia coli group: 25%로 감소함. count 1 
-Sporobacter PAC001257_s: 5.88235%로 감소함. count 1 
-Harryflintia PAC002149_s: 33.3333%로 감소함. count 1 
-Facklamia tabacinasalis: dnex에서 새로 검출됨. count 132 
-Corynebacterium casei: dnex에서 새로 검출됨. count 65 
-Corynebacterium stationis: dnex에서 새로 검출됨. count 54 
-Aerococcus viridans group: dnex에서 새로 검출됨. count 46 
-Sporosarcina JF750766_s: dnex에서 새로 검출됨. count 30 
-Caproiciproducens DQ777923_s: dnex에서 새로 검출됨. count 15 
-Eubacterium_g23 EU509480_s: dnex에서 새로 검출됨. count 13 
-Atopostipes PAC001712_s: dnex에서 새로 검출됨. count 13 
-Pseudoflavonifractor PAC002473_s: dnex에서 새로 검출됨. count 13 
-Anaerotruncus PAC001925_s: dnex에서 새로 검출됨. count 11 
-Acutalibacter AB622826_s: dnex에서 새로 검출됨. count 10 
-Oscillibacter EU454342_s: dnex에서 새로 검출됨. count 9 
-Corynebacterium xerosis group: dnex에서 새로 검출됨. count 7 
-Muribaculum PAC001076_s: dnex에서 새로 검출됨. count 7 
-Sporosarcina ureae group: dnex에서 새로 검출됨. count 7 
-Kineothrix AB606257_s: dnex에서 새로 검출됨. count 6 
-Pseudoflavonifractor FJ879979_s: dnex에서 새로 검출됨. count 6 
-Yaniella JF145020_s: dnex에서 새로 검출됨. count 6 
-Pseudoflavonifractor LT827109_s: dnex에서 새로 검출됨. count 6 
-Frisingicoccus PAC000700_s: dnex에서 새로 검출됨. count 6 
-Sporosarcina pasteurii: dnex에서 새로 검출됨. count 6 
-Clostridium_g24 PAC001282_s: dnex에서 새로 검출됨. count 5 
-Anaerotruncus PAC001590_s: dnex에서 새로 검출됨. count 5 
-Sporosarcina PAC001979_s: dnex에서 새로 검출됨. count 5 
-Frisingicoccus PAC002470_s: dnex에서 새로 검출됨. count 5 
-Anaerotruncus colihominis: dnex에서 새로 검출됨. count 4 
-Bacteroides intestinalis: dnex에서 새로 검출됨. count 4 
-Clostridium indolis group: dnex에서 새로 검출됨. count 4 
-Clostridium_g24 DS990270_s: dnex에서 새로 검출됨. count 4 
-Clostridium_g24 EU009769_s: dnex에서 새로 검출됨. count 4 
-Phocea EU457191_s: dnex에서 새로 검출됨. count 4 
-FMWZ_g EU475527_s: dnex에서 새로 검출됨. count 4 
-Pseudoflavonifractor EU542517_s: dnex에서 새로 검출됨. count 4 
-Pseudoflavonifractor JQ084175_s: dnex에서 새로 검출됨. count 4 
-Eisenbergiella KE992700_s: dnex에서 새로 검출됨. count 4 
-Bacteroides LT707007_s: dnex에서 새로 검출됨. count 4 
-Oscillibacter PAC001706_s: dnex에서 새로 검출됨. count 4 
-Sporosarcina PAC001707_s: dnex에서 새로 검출됨. count 4 
-Eubacterium_g6 PAC001759_s: dnex에서 새로 검출됨. count 4 
-Sporosarcina koreensis group: dnex에서 새로 검출됨. count 4 
-Bacteroides oleiciplenus: dnex에서 새로 검출됨. count 3 
-DQ673521_g DQ673521_s: dnex에서 새로 검출됨. count 3 
-AB730688_g EU845632_s: dnex에서 새로 검출됨. count 3 
-EU137610_g FJ680374_s: dnex에서 새로 검출됨. count 3 
-Lactobacillus jensenii group: dnex에서 새로 검출됨. count 3 
-LLKB_g PAC001047_s: dnex에서 새로 검출됨. count 3 
-Pseudoflavonifractor PAC001667_s: dnex에서 새로 검출됨. count 3 
-Atopostipes PAC001675_s: dnex에서 새로 검출됨. count 3 
-Anaerofustis PAC001779_s: dnex에서 새로 검출됨. count 3 
-LLKB_g AF371672_s: dnex에서 새로 검출됨. count 2 
-Adlercreutzia equolifaciens group: dnex에서 새로 검출됨. count 2 
-Dorea massiliensis: dnex에서 새로 검출됨. count 2 
-Blautia EU463003_s: dnex에서 새로 검출됨. count 2 
-FR888536_g EU622705_s: dnex에서 새로 검출됨. count 2 
-FJ880297_g FJ880297_s: dnex에서 새로 검출됨. count 2 
-Pseudoflavonifractor HQ782969_s: dnex에서 새로 검출됨. count 2 
-Enteractinococcus JXOI_s: dnex에서 새로 검출됨. count 2 
-Lactobacillus vaginalis: dnex에서 새로 검출됨. count 2 
-Pseudoflavonifractor NFKI_s: dnex에서 새로 검출됨. count 2 
-Clostridium_g24 PAC000184_s: dnex에서 새로 검출됨. count 2 
-Bacteroides PAC001133_s: dnex에서 새로 검출됨. count 2 
-Clostridium_g24 PAC001164_s: dnex에서 새로 검출됨. count 2 
-Pseudoflavonifractor PAC001318_s: dnex에서 새로 검출됨. count 2 
-Eubacterium_g23 PAC001490_s: dnex에서 새로 검출됨. count 2 
-Bacillus PAC002381_s: dnex에서 새로 검출됨. count 2 
-Pseudoflavonifractor PAC002475_s: dnex에서 새로 검출됨. count 2 
-AB506319_g AB506319_s: dnex에서 새로 검출됨. count 1 
-Dialister invisus: dnex에서 새로 검출됨. count 1 
-EU137610_g EU137610_s: dnex에서 새로 검출됨. count 1 
-Eubacterium_g24 EU622773_s: dnex에서 새로 검출됨. count 1 
-Pseudoflavonifractor EU773377_s: dnex에서 새로 검출됨. count 1 
-Clostridium_g24 FJ364032_s: dnex에서 새로 검출됨. count 1 
-Pseudoflavonifractor FJ879818_s: dnex에서 새로 검출됨. count 1 
-Frisingicoccus GQ448793_s: dnex에서 새로 검출됨. count 1 
-Oscillibacter JX096390_s: dnex에서 새로 검출됨. count 1 
-Lactobacillus hamsteri: dnex에서 새로 검출됨. count 1 
-Lactobacillus helveticus group: dnex에서 새로 검출됨. count 1 
-Eubacterium_g17 PAC001044_s: dnex에서 새로 검출됨. count 1 
-Eubacterium_g17 PAC001380_s: dnex에서 새로 검출됨. count 1 
-Atopostipes PAC001523_s: dnex에서 새로 검출됨. count 1 
-Alistipes PAC002445_s: dnex에서 새로 검출됨. count 1 
-Ralstonia solanacearum group: dnex에서 새로 검출됨. count 1 
-Staphylococcus sciuri group: dnex에서 새로 검출됨. count 1 
-Streptococcus acidominimus group: dnex에서 새로 검출됨. count 1 
-Muribaculum PAC001077_s: dnex에서 검출되지 않음. count 137 
-Romboutsia timonensis: dnex에서 검출되지 않음. count 56 
-Clostridium cocleatum: dnex에서 검출되지 않음. count 30 
-FR888536_g PAC001797_s: dnex에서 검출되지 않음. count 20 
-Eubacterium_g4 PAC001174_s: dnex에서 검출되지 않음. count 17 
-Agathobaculum PAC001476_s: dnex에서 검출되지 않음. count 9 
-LLKB_g EU510160_s: dnex에서 검출되지 않음. count 8 
-FTRU_g PAC001367_s: dnex에서 검출되지 않음. count 8 
-Clostridium_g21 PAC001772_s: dnex에서 검출되지 않음. count 8 
-Kineothrix PAC001125_s: dnex에서 검출되지 않음. count 7 
-Eubacterium_g6 PAC002403_s: dnex에서 검출되지 않음. count 7 
-Pseudoflavonifractor EU460161_s: dnex에서 검출되지 않음. count 6 
-Acetatifactor PAC001463_s: dnex에서 검출되지 않음. count 6 
-Oscillibacter PAC001584_s group: dnex에서 검출되지 않음. count 6 
-HM124077_g HM124077_s: dnex에서 검출되지 않음. count 5 
-Eubacterium_g4 DQ394642_s: dnex에서 검출되지 않음. count 4 
-Oscillibacter GU302582_s: dnex에서 검출되지 않음. count 4 
-Syntrophococcus PAC002313_s: dnex에서 검출되지 않음. count 4 
-Parvibacter caecicola: dnex에서 검출되지 않음. count 4 
-Eubacterium_g20 AF371632_s: dnex에서 검출되지 않음. count 3 
-Agathobaculum AY858529_s: dnex에서 검출되지 않음. count 3 
-FMWZ_g EU471770_s: dnex에서 검출되지 않음. count 3 
-Gemella palaticanis: dnex에서 검출되지 않음. count 3 
-Paludicola PAC000694_s: dnex에서 검출되지 않음. count 3 
-Coprococcus_g2 PAC001722_s: dnex에서 검출되지 않음. count 3 
-LLKB_g AB606340_s: dnex에서 검출되지 않음. count 2 
-AB270041_g EU463505_s: dnex에서 검출되지 않음. count 2 
-Frisingicoccus PAC001364_s: dnex에서 검출되지 않음. count 2 
-Pseudoflavonifractor PAC001542_s: dnex에서 검출되지 않음. count 2 
-Roseburia cecicola group: dnex에서 검출되지 않음. count 2 
-Bacteroides faecis: dnex에서 검출되지 않음. count 1 
-Moheibacter DQ346484_s: dnex에서 검출되지 않음. count 1 
-Pseudoflavonifractor EU622686_s: dnex에서 검출되지 않음. count 1 
-Sporobacter EU772049_s: dnex에서 검출되지 않음. count 1 
-Paludicola PAC001506_s: dnex에서 검출되지 않음. count 1 
-Oscillibacter PAC001551_s: dnex에서 검출되지 않음. count 1 
-Acetatifactor PAC001749_s: dnex에서 검출되지 않음. count 1 
-Acutalibacter PAC002354_s: dnex에서 검출되지 않음. count 1 
-Clostridium_g21 PAC002492_s: dnex에서 검출되지 않음. count 1 
+Lactobacillus reuteri group: 123.593%로 증가함. 3785 -> 4678 
+Desulfovibrio PAC001079_s: 551.173%로 증가함. 469 -> 2585 
+Lactobacillus murinus group: 10.8836%로 감소함. 17926 -> 1951 
+Prevotella PAC002481_s: 183.25%로 증가함. 997 -> 1827 
+Lactobacillus intestinalis: 839.231%로 증가함. 130 -> 1091 
+Clostridium_g24 PAC001374_s: 2521.05%로 증가함. 38 -> 958 
+Bacteroides vulgatus: 312.097%로 증가함. 248 -> 774 
+Eubacterium_g17 PAC002487_s: 1370.27%로 증가함. 37 -> 507 
+Enterorhabdus caecimuris: 201.288%로 증가함. 233 -> 469 
+Arthromitus AP012202_s group: 151.383%로 증가함. 253 -> 383 
+Bacteroides caecimuris: 204.545%로 증가함. 176 -> 360 
+Oscillibacter PAC001501_s: 501.493%로 증가함. 67 -> 336 
+Caproiciproducens EU622658_s: 2709.09%로 증가함. 11 -> 298 
+Pseudoflavonifractor PAC001550_s: 512.069%로 증가함. 58 -> 297 
+EU456594_g EU456594_s: 8966.67%로 증가함. 3 -> 269 
+Enterorhabdus PAC002410_s: 248.837%로 증가함. 86 -> 214 
+Oscillibacter PAC001186_s group: 374.545%로 증가함. 55 -> 206 
+Oscillibacter PAC001188_s: 265.753%로 증가함. 73 -> 194 
+Muribaculum DQ815542_s: 207.609%로 증가함. 92 -> 191 
+Eubacterium_g17 PAC001119_s: 3000%로 증가함. 6 -> 180 
+Jeotgalicoccus halotolerans group: 17000%로 증가함. 1 -> 170 
+Anaerotignum AF157052_s: 836.842%로 증가함. 19 -> 159 
+Lactobacillus FN667084_s: 1184.62%로 증가함. 13 -> 154 
+Flintibacter butyricus group: 263.265%로 증가함. 49 -> 129 
+Bacteroides DQ805799_s: 235.185%로 증가함. 54 -> 127 
+Mucispirillum schaedleri: 183.871%로 증가함. 62 -> 114 
+Anaerotruncus KE159677_s: 407.407%로 증가함. 27 -> 110 
+Marvinbryantia PAC001753_s: 41.2698%로 감소함. 252 -> 104 
+Pseudoflavonifractor PAC001549_s: 230.769%로 증가함. 39 -> 90 
+Clostridium_g21 PAC002512_s group: 142.857%로 증가함. 63 -> 90 
+Enterorhabdus mucosicola: 222.5%로 증가함. 40 -> 89 
+Pseudoflavonifractor PAC001548_s: 292.857%로 증가함. 28 -> 82 
+Eubacterium_g8 PAC002357_s: 218.919%로 증가함. 37 -> 81 
+Clostridium_g24 PAC001376_s: 553.846%로 증가함. 13 -> 72 
+Acetatifactor PAC002332_s: 125%로 증가함. 56 -> 70 
+Enterorhabdus muris: 202.941%로 증가함. 34 -> 69 
+Anaerotignum PAC001540_s: 50%로 감소함. 132 -> 66 
+Pseudoflavonifractor PAC001543_s: 330%로 증가함. 20 -> 66 
+Massilioclostridium PAC001521_s: 232%로 증가함. 25 -> 58 
+Oscillibacter PAC001522_s: 130.233%로 증가함. 43 -> 56 
+Pseudoflavonifractor PAC001786_s: 177.419%로 증가함. 31 -> 55 
+Parabacteroides goldsteinii: 189.655%로 증가함. 29 -> 55 
+Pseudoflavonifractor PAC001087_s: 135%로 증가함. 40 -> 54 
+Bacteroides faecichinchillae: 123.81%로 증가함. 42 -> 52 
+Acutalibacter PAC001594_s: 433.333%로 증가함. 12 -> 52 
+Phocea PAC001158_s: 131.579%로 증가함. 38 -> 50 
+LLKB_g PAC001383_s: 333.333%로 증가함. 15 -> 50 
+Caproiciproducens PAC001505_s: 376.923%로 증가함. 13 -> 49 
+Bacteroides uniformis: 165.517%로 증가함. 29 -> 48 
+Eubacterium_g17 HQ716480_s: 671.429%로 증가함. 7 -> 47 
+Pseudoflavonifractor PAC002490_s: 235%로 증가함. 20 -> 47 
+Oscillibacter KE159714_s group: 642.857%로 증가함. 7 -> 45 
+Eubacterium_g6 PAC001227_s: 2250%로 증가함. 2 -> 45 
+Bacteroides DQ799557_s: 169.231%로 증가함. 26 -> 44 
+Eubacterium_g23 PAC001121_s group: 300%로 증가함. 14 -> 42 
+Clostridium_g24 AF371567_s: 1333.33%로 증가함. 3 -> 40 
+Clostridium_g21 PAC001294_s: 60.6061%로 감소함. 66 -> 40 
+Eubacterium_g17 PAC001571_s: 210.526%로 증가함. 19 -> 40 
+Pseudoflavonifractor PAC001574_s group: 2000%로 증가함. 2 -> 40 
+Bacteroides HM124113_s: 25.1656%로 감소함. 151 -> 38 
+LT706945_g PAC001747_s: 411.111%로 증가함. 9 -> 37 
+Acholeplasma_g2 PAC001080_s: 269.231%로 증가함. 13 -> 35 
+Pseudoflavonifractor PAC001379_s: 52.381%로 감소함. 63 -> 33 
+Oscillibacter PAC001156_s: 1550%로 증가함. 2 -> 31 
+Parasutterella excrementihominis group: 21.5385%로 감소함. 130 -> 28 
+Proteus mirabilis: 350%로 증가함. 8 -> 28 
+Acutalibacter muris: 41.5385%로 감소함. 65 -> 27 
+Pseudoflavonifractor PAC001131_s: 300%로 증가함. 9 -> 27 
+Oscillibacter PAC001526_s: 225%로 증가함. 12 -> 27 
+Agathobaculum PAC001688_s: 47.3684%로 감소함. 57 -> 27 
+Frisingicoccus EF409953_s: 500%로 증가함. 5 -> 25 
+Oscillibacter FJ678358_s: 500%로 증가함. 5 -> 25 
+Eubacterium_g8 PAC001244_s: 500%로 증가함. 5 -> 25 
+Clostridium_g21 PAC001757_s group: 75%로 감소함. 32 -> 24 
+LLKB_g PAC001694_s: 440%로 증가함. 5 -> 22 
+Oscillibacter PAC001638_s: 15.5556%로 감소함. 135 -> 21 
+Enterorhabdus PAC001730_s: 500%로 증가함. 4 -> 20 
+LLKB_g EF100040_s: 1900%로 증가함. 1 -> 19 
+Enterococcus faecalis: 450%로 증가함. 4 -> 18 
+Sporobacter PAC001096_s: 77.2727%로 감소함. 22 -> 17 
+Lachnospira PAC002369_s: 340%로 증가함. 5 -> 17 
+Lactobacillus satsumensis: 47.0588%로 감소함. 34 -> 16 
+Pseudoflavonifractor PAC001547_s: 177.778%로 증가함. 9 -> 16 
+Paludicola PAC001784_s: 400%로 증가함. 4 -> 16 
+Acetatifactor PAC001801_s: 228.571%로 증가함. 7 -> 16 
+Bacteroides xylanisolvens group: 150%로 증가함. 10 -> 15 
+Frisingicoccus PAC000688_s: 466.667%로 증가함. 3 -> 14 
+Anaerotignum PAC001740_s: 233.333%로 증가함. 6 -> 14 
+LLKB_g AB626939_s: 130%로 증가함. 10 -> 13 
+Acetatifactor PAC001373_s: 216.667%로 증가함. 6 -> 13 
+Ruminococcus PAC001122_s: 13.7931%로 감소함. 87 -> 12 
+Emergencia PAC001235_s: 21.4286%로 감소함. 56 -> 12 
+FR888536_g PAC001268_s: 1200%로 증가함. 1 -> 12 
+Kineothrix alysoides: 36.6667%로 감소함. 30 -> 11 
+Roseburia PAC001271_s: 50%로 감소함. 22 -> 11 
+Oscillibacter PAC001684_s: 122.222%로 증가함. 9 -> 11 
+Streptococcus danieliae: 220%로 증가함. 5 -> 11 
+Clostridium scindens: 250%로 증가함. 4 -> 10 
+Oscillibacter EU771312_s: 250%로 증가함. 4 -> 10 
+LLKB_g PAC001902_s: 250%로 증가함. 4 -> 10 
+LLKB_g PAC002469_s: 166.667%로 증가함. 6 -> 10 
+Clostridium_g21 EU455375_s: 300%로 증가함. 3 -> 9 
+Oscillibacter PAC002110_s: 20.9302%로 감소함. 43 -> 9 
+Oscillibacter PAC001369_s: 800%로 증가함. 1 -> 8 
+Paludicola PAC001507_s: 160%로 증가함. 5 -> 8 
+Pseudoflavonifractor PAC001761_s: 160%로 증가함. 5 -> 8 
+Acetatifactor PAC001773_s: 66.6667%로 감소함. 12 -> 8 
+Pseudoflavonifractor PAC002132_s: 200%로 증가함. 4 -> 8 
+Alistipes obesi: 175%로 증가함. 4 -> 7 
+Bacteroides dorei: 700%로 증가함. 1 -> 7 
+AB185775_g EU622732_s: 10.7692%로 감소함. 65 -> 7 
+Acetatifactor FJ881208_s: 233.333%로 증가함. 3 -> 7 
+Oscillibacter PAC001368_s: 233.333%로 증가함. 3 -> 7 
+Frisingicoccus PAC001399_s: 350%로 증가함. 2 -> 7 
+Oscillibacter PAC001502_s: 140%로 증가함. 5 -> 7 
+Pseudoflavonifractor PAC002302_s: 35%로 감소함. 20 -> 7 
+Bifidobacterium pseudolongum group: 4.44444%로 감소함. 135 -> 6 
+Pseudoflavonifractor LN866274_s: 600%로 증가함. 1 -> 6 
+Clostridium_g24 PAC000183_s: 40%로 감소함. 15 -> 6 
+AB606281_g AB606281_s: 125%로 증가함. 4 -> 5 
+Alistipes finegoldii: 133.333%로 증가함. 3 -> 4 
+Bacteroides finegoldii: 57.1429%로 감소함. 7 -> 4 
+Bacteroides stercorirosoris: 30.7692%로 감소함. 13 -> 4 
+Oscillibacter FJ881219_s: 66.6667%로 감소함. 6 -> 4 
+Anaerotignum PAC001464_s: 400%로 증가함. 1 -> 4 
+Bilophila PAC002477_s: 200%로 증가함. 2 -> 4 
+Acetatifactor muris: 18.75%로 감소함. 16 -> 3 
+Intestinimonas butyriciproducens: 150%로 증가함. 2 -> 3 
+Anaerotignum EF096613_s: 18.1818%로 감소함. 11 -> 2 
+Clostridium_g21 EU506235_s: 15.3846%로 감소함. 13 -> 2 
+Bacteroides JN559675_s: 200%로 증가함. 1 -> 2 
+Lactobacillus rodentium: 200%로 증가함. 1 -> 2 
+Eubacterium_g6 PAC001586_s: 25%로 감소함. 8 -> 2 
+Frisingicoccus PAC001702_s: 50%로 감소함. 4 -> 2 
+Pseudoflavonifractor ADDX_s: 50%로 감소함. 2 -> 1 
+Akkermansia muciniphila: 10%로 감소함. 10 -> 1 
+Clostridium_g24 BBZO_s: 33.3333%로 감소함. 3 -> 1 
+Oscillibacter EU457459_s: 25%로 감소함. 4 -> 1 
+EU474900_g EU474900_s: 50%로 감소함. 2 -> 1 
+Escherichia coli group: 25%로 감소함. 4 -> 1 
+Sporobacter PAC001257_s: 5.88235%로 감소함. 17 -> 1 
+Harryflintia PAC002149_s: 33.3333%로 감소함. 3 -> 1 
+Facklamia tabacinasalis: dnex에서 새로 검출됨. 0 -> 132 
+Corynebacterium casei: dnex에서 새로 검출됨. 0 -> 65 
+Corynebacterium stationis: dnex에서 새로 검출됨. 0 -> 54 
+Aerococcus viridans group: dnex에서 새로 검출됨. 0 -> 46 
+Sporosarcina JF750766_s: dnex에서 새로 검출됨. 0 -> 30 
+Caproiciproducens DQ777923_s: dnex에서 새로 검출됨. 0 -> 15 
+Eubacterium_g23 EU509480_s: dnex에서 새로 검출됨. 0 -> 13 
+Atopostipes PAC001712_s: dnex에서 새로 검출됨. 0 -> 13 
+Pseudoflavonifractor PAC002473_s: dnex에서 새로 검출됨. 0 -> 13 
+Anaerotruncus PAC001925_s: dnex에서 새로 검출됨. 0 -> 11 
+Acutalibacter AB622826_s: dnex에서 새로 검출됨. 0 -> 10 
+Oscillibacter EU454342_s: dnex에서 새로 검출됨. 0 -> 9 
+Corynebacterium xerosis group: dnex에서 새로 검출됨. 0 -> 7 
+Muribaculum PAC001076_s: dnex에서 새로 검출됨. 0 -> 7 
+Sporosarcina ureae group: dnex에서 새로 검출됨. 0 -> 7 
+Kineothrix AB606257_s: dnex에서 새로 검출됨. 0 -> 6 
+Pseudoflavonifractor FJ879979_s: dnex에서 새로 검출됨. 0 -> 6 
+Yaniella JF145020_s: dnex에서 새로 검출됨. 0 -> 6 
+Pseudoflavonifractor LT827109_s: dnex에서 새로 검출됨. 0 -> 6 
+Frisingicoccus PAC000700_s: dnex에서 새로 검출됨. 0 -> 6 
+Sporosarcina pasteurii: dnex에서 새로 검출됨. 0 -> 6 
+Clostridium_g24 PAC001282_s: dnex에서 새로 검출됨. 0 -> 5 
+Anaerotruncus PAC001590_s: dnex에서 새로 검출됨. 0 -> 5 
+Sporosarcina PAC001979_s: dnex에서 새로 검출됨. 0 -> 5 
+Frisingicoccus PAC002470_s: dnex에서 새로 검출됨. 0 -> 5 
+Anaerotruncus colihominis: dnex에서 새로 검출됨. 0 -> 4 
+Bacteroides intestinalis: dnex에서 새로 검출됨. 0 -> 4 
+Clostridium indolis group: dnex에서 새로 검출됨. 0 -> 4 
+Clostridium_g24 DS990270_s: dnex에서 새로 검출됨. 0 -> 4 
+Clostridium_g24 EU009769_s: dnex에서 새로 검출됨. 0 -> 4 
+Phocea EU457191_s: dnex에서 새로 검출됨. 0 -> 4 
+FMWZ_g EU475527_s: dnex에서 새로 검출됨. 0 -> 4 
+Pseudoflavonifractor EU542517_s: dnex에서 새로 검출됨. 0 -> 4 
+Pseudoflavonifractor JQ084175_s: dnex에서 새로 검출됨. 0 -> 4 
+Eisenbergiella KE992700_s: dnex에서 새로 검출됨. 0 -> 4 
+Bacteroides LT707007_s: dnex에서 새로 검출됨. 0 -> 4 
+Oscillibacter PAC001706_s: dnex에서 새로 검출됨. 0 -> 4 
+Sporosarcina PAC001707_s: dnex에서 새로 검출됨. 0 -> 4 
+Eubacterium_g6 PAC001759_s: dnex에서 새로 검출됨. 0 -> 4 
+Sporosarcina koreensis group: dnex에서 새로 검출됨. 0 -> 4 
+Bacteroides oleiciplenus: dnex에서 새로 검출됨. 0 -> 3 
+DQ673521_g DQ673521_s: dnex에서 새로 검출됨. 0 -> 3 
+AB730688_g EU845632_s: dnex에서 새로 검출됨. 0 -> 3 
+EU137610_g FJ680374_s: dnex에서 새로 검출됨. 0 -> 3 
+Lactobacillus jensenii group: dnex에서 새로 검출됨. 0 -> 3 
+LLKB_g PAC001047_s: dnex에서 새로 검출됨. 0 -> 3 
+Pseudoflavonifractor PAC001667_s: dnex에서 새로 검출됨. 0 -> 3 
+Atopostipes PAC001675_s: dnex에서 새로 검출됨. 0 -> 3 
+Anaerofustis PAC001779_s: dnex에서 새로 검출됨. 0 -> 3 
+LLKB_g AF371672_s: dnex에서 새로 검출됨. 0 -> 2 
+Adlercreutzia equolifaciens group: dnex에서 새로 검출됨. 0 -> 2 
+Dorea massiliensis: dnex에서 새로 검출됨. 0 -> 2 
+Blautia EU463003_s: dnex에서 새로 검출됨. 0 -> 2 
+FR888536_g EU622705_s: dnex에서 새로 검출됨. 0 -> 2 
+FJ880297_g FJ880297_s: dnex에서 새로 검출됨. 0 -> 2 
+Pseudoflavonifractor HQ782969_s: dnex에서 새로 검출됨. 0 -> 2 
+Enteractinococcus JXOI_s: dnex에서 새로 검출됨. 0 -> 2 
+Lactobacillus vaginalis: dnex에서 새로 검출됨. 0 -> 2 
+Pseudoflavonifractor NFKI_s: dnex에서 새로 검출됨. 0 -> 2 
+Clostridium_g24 PAC000184_s: dnex에서 새로 검출됨. 0 -> 2 
+Bacteroides PAC001133_s: dnex에서 새로 검출됨. 0 -> 2 
+Clostridium_g24 PAC001164_s: dnex에서 새로 검출됨. 0 -> 2 
+Pseudoflavonifractor PAC001318_s: dnex에서 새로 검출됨. 0 -> 2 
+Eubacterium_g23 PAC001490_s: dnex에서 새로 검출됨. 0 -> 2 
+Bacillus PAC002381_s: dnex에서 새로 검출됨. 0 -> 2 
+Pseudoflavonifractor PAC002475_s: dnex에서 새로 검출됨. 0 -> 2 
+AB506319_g AB506319_s: dnex에서 새로 검출됨. 0 -> 1 
+Dialister invisus: dnex에서 새로 검출됨. 0 -> 1 
+EU137610_g EU137610_s: dnex에서 새로 검출됨. 0 -> 1 
+Eubacterium_g24 EU622773_s: dnex에서 새로 검출됨. 0 -> 1 
+Pseudoflavonifractor EU773377_s: dnex에서 새로 검출됨. 0 -> 1 
+Clostridium_g24 FJ364032_s: dnex에서 새로 검출됨. 0 -> 1 
+Pseudoflavonifractor FJ879818_s: dnex에서 새로 검출됨. 0 -> 1 
+Frisingicoccus GQ448793_s: dnex에서 새로 검출됨. 0 -> 1 
+Oscillibacter JX096390_s: dnex에서 새로 검출됨. 0 -> 1 
+Lactobacillus hamsteri: dnex에서 새로 검출됨. 0 -> 1 
+Lactobacillus helveticus group: dnex에서 새로 검출됨. 0 -> 1 
+Eubacterium_g17 PAC001044_s: dnex에서 새로 검출됨. 0 -> 1 
+Eubacterium_g17 PAC001380_s: dnex에서 새로 검출됨. 0 -> 1 
+Atopostipes PAC001523_s: dnex에서 새로 검출됨. 0 -> 1 
+Alistipes PAC002445_s: dnex에서 새로 검출됨. 0 -> 1 
+Ralstonia solanacearum group: dnex에서 새로 검출됨. 0 -> 1 
+Staphylococcus sciuri group: dnex에서 새로 검출됨. 0 -> 1 
+Streptococcus acidominimus group: dnex에서 새로 검출됨. 0 -> 1 
+Muribaculum PAC001077_s: dnex에서 검출되지 않음. 137 -> 0 
+Romboutsia timonensis: dnex에서 검출되지 않음. 56 -> 0 
+Clostridium cocleatum: dnex에서 검출되지 않음. 30 -> 0 
+FR888536_g PAC001797_s: dnex에서 검출되지 않음. 20 -> 0 
+Eubacterium_g4 PAC001174_s: dnex에서 검출되지 않음. 17 -> 0 
+Agathobaculum PAC001476_s: dnex에서 검출되지 않음. 9 -> 0 
+LLKB_g EU510160_s: dnex에서 검출되지 않음. 8 -> 0 
+FTRU_g PAC001367_s: dnex에서 검출되지 않음. 8 -> 0 
+Clostridium_g21 PAC001772_s: dnex에서 검출되지 않음. 8 -> 0 
+Kineothrix PAC001125_s: dnex에서 검출되지 않음. 7 -> 0 
+Eubacterium_g6 PAC002403_s: dnex에서 검출되지 않음. 7 -> 0 
+Pseudoflavonifractor EU460161_s: dnex에서 검출되지 않음. 6 -> 0 
+Acetatifactor PAC001463_s: dnex에서 검출되지 않음. 6 -> 0 
+Oscillibacter PAC001584_s group: dnex에서 검출되지 않음. 6 -> 0 
+HM124077_g HM124077_s: dnex에서 검출되지 않음. 5 -> 0 
+Eubacterium_g4 DQ394642_s: dnex에서 검출되지 않음. 4 -> 0 
+Oscillibacter GU302582_s: dnex에서 검출되지 않음. 4 -> 0 
+Syntrophococcus PAC002313_s: dnex에서 검출되지 않음. 4 -> 0 
+Parvibacter caecicola: dnex에서 검출되지 않음. 4 -> 0 
+Eubacterium_g20 AF371632_s: dnex에서 검출되지 않음. 3 -> 0 
+Agathobaculum AY858529_s: dnex에서 검출되지 않음. 3 -> 0 
+FMWZ_g EU471770_s: dnex에서 검출되지 않음. 3 -> 0 
+Gemella palaticanis: dnex에서 검출되지 않음. 3 -> 0 
+Paludicola PAC000694_s: dnex에서 검출되지 않음. 3 -> 0 
+Coprococcus_g2 PAC001722_s: dnex에서 검출되지 않음. 3 -> 0 
+LLKB_g AB606340_s: dnex에서 검출되지 않음. 2 -> 0 
+AB270041_g EU463505_s: dnex에서 검출되지 않음. 2 -> 0 
+Frisingicoccus PAC001364_s: dnex에서 검출되지 않음. 2 -> 0 
+Pseudoflavonifractor PAC001542_s: dnex에서 검출되지 않음. 2 -> 0 
+Roseburia cecicola group: dnex에서 검출되지 않음. 2 -> 0 
+Bacteroides faecis: dnex에서 검출되지 않음. 1 -> 0 
+Moheibacter DQ346484_s: dnex에서 검출되지 않음. 1 -> 0 
+Pseudoflavonifractor EU622686_s: dnex에서 검출되지 않음. 1 -> 0 
+Sporobacter EU772049_s: dnex에서 검출되지 않음. 1 -> 0 
+Paludicola PAC001506_s: dnex에서 검출되지 않음. 1 -> 0 
+Oscillibacter PAC001551_s: dnex에서 검출되지 않음. 1 -> 0 
+Acetatifactor PAC001749_s: dnex에서 검출되지 않음. 1 -> 0 
+Acutalibacter PAC002354_s: dnex에서 검출되지 않음. 1 -> 0 
+Clostridium_g21 PAC002492_s: dnex에서 검출되지 않음. 1 -> 0 
