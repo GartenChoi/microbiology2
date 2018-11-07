@@ -34,7 +34,14 @@ def compare(com1, com2):
 
 if __name__ == "__main__":
     compare('con', 'dn')
-    compare('dnex', 'con')
+    compare('dn', 'con')
     compare('con', 'ex')
-    compare('dn', 'dnex')
+    compare('ex', 'con')
     compare('con', 'dnex')
+    compare('dnex', 'con')
+    compare('dn', 'dnex')
+    compare('dnex', 'dn')
+    compare('ex', 'dnex')
+    compare('dnex', 'ex')
+    compare('ex', 'dn')
+    compare('dn', 'ex')
